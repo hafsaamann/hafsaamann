@@ -12,7 +12,7 @@ I'm a Computer Science graduate passionate about solving real-world challenges t
 ## Projects
 - **[Georgia Islamic Institute Website]**: Redesigned the website with a team to improve its structure and usability.
 - **Expense Tracker App**: A Python project to help users manage personal expenses with a simple command-line interface.
-** **Personalized Greeting Card Generator**: A Python program that creates customized greeting card messages, showcasing skills in user input handling, string manipulation, and file operations.
+- **Personalized Greeting Card Generator**: A Python program that creates customized greeting card messages, showcasing skills in user input handling, string manipulation, and file operations.
 ## Skills
 - **Languages**: Python, HTML, CSS
 - **Cloud**: AWS (EC2, S3, IAM)
